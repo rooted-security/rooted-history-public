@@ -9,5 +9,4 @@ research and storytelling workflows.
 
 Website: https://rootedhistory.io
 
-This repository is intended for public information only. Production source
-code is maintained in private repositories.
+This repository is intended for public information only.
